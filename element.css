@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img.face {
+    width: 100%;
+    border-radius: 4.6875rem;
+}
+.face1 {
+    background-color: #6f42c1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.center_total_content {
+    display: flex
+;
+    flex-direction: row;
+    font-family: Merriweather, serif;
+    margin-top: 3.125rem;
+    overflow: hidden;
+}
+body {
+    background-color: #2b2d38;
+    color: #ffffff;
+    font-family: Poppins, sans-serif;
+}
